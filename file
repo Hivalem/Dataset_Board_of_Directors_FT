@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Jon Slade",
+    "current_role": "Chief Executive Officer",
+    "role_type": "executive",
+    "region": "global",
+    "bio_short": "CEO FT",
+    "board_since": 2014,
+    "ft_since": 1987,
+    "notes": "Joined FT management board in 2014 as Chief Commercial Officer; appointed CEO in 2025."
+  },
+  {
+    "name": "Roula Khalaf",
+    "current_role": "Editor",
+    "role_type": "editorial",
+    "region": "global",
+    "bio_short": "Editor FT",
+    "board_since": 2020,
+    "ft_since": 1995,
+    "notes": "Editor of the Financial Times since January 2020; first female editor in FT history."
+  },
+  {
+    "name": "Daisuke Arakawa",
+    "current_role": "Executive Vice President, Nikkei",
+    "role_type": "board / partner",
+    "region": "Japan / global",
+    "bio_short": "Representative of Nikkei",
+    "board_since": 2020,
+    "ft_since": 1987,
+    "notes": "Director of the Financial Times since 2020; appointed Executive Vice President of Nikkei in 2026."
+  },
+  {
+    "name": "Nick Fallon",
+    "current_role": "Director of Strategy and Growth",
+    "role_type": "strategy",
+    "region": "global",
+    "bio_short": "Strategy and growth",
+    "board_since": 2025,
+    "ft_since": 2021,
+    "notes": "Appointed Chief Strategy and Development Officer in 2025. Previously Managing Director of FT Professional."
+  },
+  {
+    "name": "Matt Fottrell",
+    "current_role": "Director of Reader Revenue and President, US",
+    "role_type": "commercial",
+    "region": "US",
+    "bio_short": "Reader revenue and US business",
+    "board_since": 2021,
+    "ft_since": 1999,
+    "notes": "President of FT US since 2018. Joined the Financial Times in 1999. Leads the Reader Revenue Group."
+  },
+  {
+    "name": "Dan Guildford",
+    "current_role": "General Counsel",
+    "role_type": "legal",
+    "region": "global",
+    "bio_short": "Legal lead",
+    "board_since": 2013,
+    "ft_since": 2009,
+    "notes": "General Counsel since 2013. Joined the Financial Times in 2009."
+  },
+  {
+    "name": "Sarah Hopkins",
+    "current_role": "Chief People Officer",
+    "role_type": "HR",
+    "region": "global",
+    "bio_short": "HR lead",
+    "board_since": 2019,
+    "ft_since": 1996,
+    "notes": "Joined the Financial Times in 1996. Chief People Officer leading global people operations, talent, DEI and culture."
+  },
+  {
+    "name": "James Lund",
+    "current_role": "CFO and COO",
+    "role_type": "finance / operations",
+    "region": "global",
+    "bio_short": "Finance and operations",
+    "board_since": 2014,
+    "ft_since": 2012,
+    "notes": "Director of Financial Times Limited since 1 January 2014. Joined the Financial Times in 2012. CFO and COO."
+  },
+  {
+    "name": "Angela Mackay",
+    "current_role": "Chief Commercial Officer and MD, APAC",
+    "role_type": "commercial",
+    "region": "APAC",
+    "bio_short": "Commercial lead in APAC",
+    "board_since": 2008,
+    "ft_since": 2003,
+    "notes": "Global Publisher of FT Live and Managing Director, FT Asia Pacific."
+  },
+  {
+    "name": "Finola McDonnell",
+    "current_role": "Director of Communications and Marketing",
+    "role_type": "communications",
+    "region": "global",
+    "bio_short": "Comms and marketing",
+    "board_since": 2018,
+    "ft_since": 2018,
+    "notes": "Appointed director of Financial Times Group Limited on 30 June 2025. Joined the Financial Times in 2018 after CNBC International."
+  },
+  {
+    "name": "Rebecca Salsbury",
+    "current_role": "Director of Product and Technology",
+    "role_type": "product / tech",
+    "region": "global",
+    "bio_short": "Product and technology",
+    "board_since": 2026,
+    "ft_since": 2023,
+    "notes": "Appointed Chief Product and Technology Officer and joined the FT Management Board in January 2026."
+  },
+  {
+    "name": "Hiroshi Toyofuku",
+    "current_role": "Managing Director, Nikkei Europe Ltd.",
+    "role_type": "regional management",
+    "region": "Europe",
+    "bio_short": "Nikkei Europe lead",
+    "board_since": 2025,
+    "ft_since": 2025,
+    "notes": "Appointed Managing Director of Nikkei Europe and joined the FT Management Board in March 2025."
+  }
+]
